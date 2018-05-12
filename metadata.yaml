@@ -32,6 +32,8 @@ description: "The Tale of Mr. Jeremy Fisher is a children's book, written and il
   \ death in 1943, licences were issued to various firms to produce the Potter characters.\
   \ Jeremy and his friends were released as porcelain figurines, plush toys, and other\
   \ merchandise.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15077#The-Tale-of-Mr.-Jeremy-Fisher
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-02-16'
 gutenberg_type: Text
