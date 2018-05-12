@@ -1,0 +1,54 @@
+_repo: The-Tale-of-Mr.-Jeremy-Fisher_15077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Mr. Jeremy Fisher is a children's book, written and illustrated\
+  \ by Beatrix Potter. It was published by Frederick Warne & Co. in July 1906. Jeremy's\
+  \ origin lies in a letter she wrote to a child in 1893. She revised it in 1906,\
+  \ and moved its setting from the River Tay to the English Lake District. The tale\
+  \ reflects her love for the Lake District and her admiration for children's illustrator\
+  \ Randolph Caldecott.\nJeremy Fisher is a frog who lives in a \"slippy-sloppy\"\
+  \ house at the edge of a pond. One rainy day he collects worms for fishing, and\
+  \ sets off across the pond on his lily-pad boat. He plans to invite his friends\
+  \ for dinner if he catches more than five minnows. He encounters all sorts of setbacks\
+  \ to his goal, and escapes a large trout who tries to swallow him. He swims for\
+  \ shore, decides he will not go fishing again, and hops home.\nPotter's tale pays\
+  \ homage to the leisurely summers her father and his companions passed sport fishing\
+  \ at rented country estates in Scotland. Following the tale's publication, a child\
+  \ fan wrote to Potter suggesting Jeremy find a wife. Potter responded with a series\
+  \ of miniature letters on the theme as if from Jeremy and his pals. After Potter's\
+  \ death in 1943, licences were issued to various firms to produce the Potter characters.\
+  \ Jeremy and his friends were released as porcelain figurines, plush toys, and other\
+  \ merchandise.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15077'
+  wikidata: Q4272137
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frogs -- Juvenile fiction'
+title: The Tale of Mr. Jeremy Fisher
+url: http://www.gutenberg.org/ebooks/15077
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Tale_of_Mr._Jeremy_Fisher
+- https://id.wikipedia.org/wiki/The_Tale_of_Mr._Jeremy_Fisher
+- https://pt.wikipedia.org/wiki/The_Tale_of_Mr._Jeremy_Fisher
+- https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AC%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%A9%E3%82%93%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
